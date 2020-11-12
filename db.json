@@ -44,5 +44,118 @@
             "count": 10,
             "title": "in-progress"
         }
+    ],
+    "Systemstatus" :{
+        "Monitoring": [
+            {
+                "count": 6,
+                "title": "Open"
+            },
+            {
+                "count": 8,
+                "title": "Close"
+            }
+        ],
+        "Availability": [
+            {
+                "count": 6,
+                "title": "Open"
+            },
+            {
+                "count": 8,
+                "title": "Close"
+            }
+        ],
+        "EWA": [
+            {
+                "count": 6,
+                "title": "Open"
+            },
+            {
+                "count": 8,
+                "title": "Close"
+            }
+        ],
+        "Customer Status": [
+            {
+                "count": 6,
+                "title": "Open"
+            },
+            {
+                "count": 0,
+                "title": "Close"
+            }
+        ],
+        "Backup": [
+            {
+                "count": 6,
+                "title": "Open"
+            },
+            {
+                "count": 8,
+                "title": "Close"
+            }
+        ],
+        "Outages": [
+            {
+                "count": 8,
+                "title": "Open"
+            },
+            {
+                "count": 1,
+                "title": "Close"
+            }
+        ],
+        "DR Dril": [
+            {
+                "count": 8,
+                "title": "Open"
+            },
+            {
+                "count": 0,
+                "title": "Close"
+            }
+        ]
+
+    },
+    "Operational Errors":[
+        {
+            "Month": "June",
+            "Furuka": "1",
+            "Yamaza": "0",
+            "Hanw": "0",
+            "Sysme": 1
+        },{
+            "Month": "April",
+            "Furuka": "1",
+            "Yamaza": "0",
+            "Hanw": "0",
+            "Sysme": 1
+        },
+        {
+            "Month": "March",
+            "Furuka": "1",
+            "Yamaza": "0",
+            "Hanw": "0",
+            "Sysme": 1
+        },{
+            "Month": "Feb",
+            "Furuka": "1",
+            "Yamaza": "0",
+            "Hanw": "0",
+            "Sysme": 1
+        },{
+            "Month": "Jan",
+            "Furuka": "1",
+            "Yamaza": "0",
+            "Hanw": "0",
+            "Sysme": 1
+        },{
+            "Month": "May",
+            "Furuka": "1",
+            "Yamaza": "0",
+            "Hanw": "0",
+            "Sysme": 1
+        }
     ]
 }
