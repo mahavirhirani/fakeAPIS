@@ -117,7 +117,7 @@
             }
         ]
     },
-    "Operational Errors": [
+    "OperationalErrors": [
         {
             "Month": "June",
             "Furuka": "1",
