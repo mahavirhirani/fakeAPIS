@@ -1,11 +1,48 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "tickets": {
+        "myshift": [
+            {
+                "count": 5,
+                "title": "Open"
+            },
+            {
+                "count": 8,
+                "title": "Close"
+            }
+        ],
+        "resolve": [
+            {
+                "count": 10,
+                "title": "Open"
+            },
+            {
+                "count": 6,
+                "title": "Close"
+            }
+        ]
+    },
+    "projectDetails": [
+        {
+            "count": 30,
+            "title": "Red"
+        },
+        {
+            "count": 45,
+            "title": "Green"
+        }
+    ],
+    "RCAStatus": [
+        {
+            "count": 3,
+            "title": "initial"
+        },
+        {
+            "count": 5,
+            "title": "final"
+        },
+        {
+            "count": 10,
+            "title": "in-progress"
+        }
+    ]
 }
