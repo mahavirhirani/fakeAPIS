@@ -45,7 +45,7 @@
             "title": "in-progress"
         }
     ],
-    "Systemstatus" :{
+    "Systemstatus": {
         "Monitoring": [
             {
                 "count": 6,
@@ -76,7 +76,7 @@
                 "title": "Close"
             }
         ],
-        "Customer Status": [
+        "CustomerStatus": [
             {
                 "count": 6,
                 "title": "Open"
@@ -106,7 +106,7 @@
                 "title": "Close"
             }
         ],
-        "DR Dril": [
+        "DRDril": [
             {
                 "count": 8,
                 "title": "Open"
@@ -116,16 +116,16 @@
                 "title": "Close"
             }
         ]
-
     },
-    "OperationalErrors":[
+    "Operational Errors": [
         {
             "Month": "June",
             "Furuka": "1",
             "Yamaza": "0",
             "Hanw": "0",
             "Sysme": 1
-        },{
+        },
+        {
             "Month": "April",
             "Furuka": "1",
             "Yamaza": "0",
@@ -138,19 +138,22 @@
             "Yamaza": "0",
             "Hanw": "0",
             "Sysme": 1
-        },{
+        },
+        {
             "Month": "Feb",
             "Furuka": "1",
             "Yamaza": "0",
             "Hanw": "0",
             "Sysme": 1
-        },{
+        },
+        {
             "Month": "Jan",
             "Furuka": "1",
             "Yamaza": "0",
             "Hanw": "0",
             "Sysme": 1
-        },{
+        },
+        {
             "Month": "May",
             "Furuka": "1",
             "Yamaza": "0",
