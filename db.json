@@ -217,49 +217,6 @@
             "EWA Colour": "YELLOW",
             "url": "https://myshift.ctrls.in/itil/ewasap/getewadetails/NjM3NzA5MzU="
         }
-    ],
-    "OperationalErrors": [
-        {
-            "Month": "June",
-            "Furuka": "1",
-            "Yamaza": "0",
-            "Hanw": "0",
-            "Sysme": 1
-        },
-        {
-            "Month": "April",
-            "Furuka": "1",
-            "Yamaza": "0",
-            "Hanw": "0",
-            "Sysme": 1
-        },
-        {
-            "Month": "March",
-            "Furuka": "1",
-            "Yamaza": "0",
-            "Hanw": "0",
-            "Sysme": 1
-        },
-        {
-            "Month": "Feb",
-            "Furuka": "1",
-            "Yamaza": "0",
-            "Hanw": "0",
-            "Sysme": 1
-        },
-        {
-            "Month": "Jan",
-            "Furuka": "1",
-            "Yamaza": "0",
-            "Hanw": "0",
-            "Sysme": 1
-        },
-        {
-            "Month": "May",
-            "Furuka": "1",
-            "Yamaza": "0",
-            "Hanw": "0",
-            "Sysme": 1
-        }
     ]
+    
 }
