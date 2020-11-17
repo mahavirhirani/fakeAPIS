@@ -70,7 +70,6 @@
             {
                 "count": 3,
                 "title": "Yellow"
-                
             },
             {
                 "count": 2,
@@ -122,8 +121,8 @@
             }
         ]
     },
-    "EWA_GREEN":[
-    {
+    "EWA_GREEN": [
+        {
             "rfcno": "SAPEWA56194956",
             "Customerid": "102133",
             "CustomerName": "Abu Dhabi National Oil Company (ADNOC) [SAP-HEC]",
@@ -137,7 +136,7 @@
             "url": "https://myshift.ctrls.in/itil/ewasap/getewadetails/NTYxOTQ5NTY="
         },
         {
-         "rfcno": "SAPEWA56150237",
+            "rfcno": "SAPEWA56150237",
             "Customerid": "102133",
             "CustomerName": "Abu Dhabi National Oil Company (ADNOC) [SAP-HEC]",
             "TicketStage": "DONE",
@@ -150,10 +149,9 @@
             "url": "https://myshift.ctrls.in/itil/ewasap/getewadetails/NTYxNTAyMzc="
         }
     ],
-    "EWA_RED":
-    [
+    "EWA_RED": [
         {
-          "rfcno": "SAPEWA56195709",
+            "rfcno": "SAPEWA56195709",
             "Customerid": "102133",
             "CustomerName": "Abu Dhabi National Oil Company (ADNOC) [SAP-HEC]",
             "TicketStage": "DONE",
@@ -166,7 +164,7 @@
             "url": "https://myshift.ctrls.in/itil/ewasap/getewadetails/NTYxOTU3MDk="
         },
         {
-             "rfcno": "SAPEWA56196318",
+            "rfcno": "SAPEWA56196318",
             "Customerid": "102133",
             "CustomerName": "Abu Dhabi National Oil Company (ADNOC) [SAP-HEC]",
             "TicketStage": "DONE",
@@ -179,8 +177,9 @@
             "url": "https://myshift.ctrls.in/itil/ewasap/getewadetails/NTYxOTYzMTg="
         }
     ],
-    "EWA_YELLOW":[{
-          "rfcno": "SAPEWA63397728",
+    "EWA_YELLOW": [
+        {
+            "rfcno": "SAPEWA63397728",
             "Customerid": "102133",
             "CustomerName": "Abu Dhabi National Oil Company (ADNOC) [SAP-HEC]",
             "TicketStage": "DONE",
@@ -191,9 +190,9 @@
             "subject": "0001112961-GH4~HANADB_Critical (Yellow)_EWA",
             "EWA Colour": "YELLOW",
             "url": "https://myshift.ctrls.in/itil/ewasap/getewadetails/NjMzOTc3Mjg="
-    },
-    {
-          "rfcno": "SAPEWA63770812",
+        },
+        {
+            "rfcno": "SAPEWA63770812",
             "Customerid": "102133",
             "CustomerName": "Abu Dhabi National Oil Company (ADNOC) [SAP-HEC]",
             "TicketStage": "DONE",
@@ -204,9 +203,9 @@
             "subject": "0001112961-HD7~HANADB_Critical (Yellow)_EWA",
             "EWA Colour": "YELLOW",
             "url": "https://myshift.ctrls.in/itil/ewasap/getewadetails/NjM3NzA4MTI="
-    },
-                  {
-                   "rfcno": "SAPEWA63770935",
+        },
+        {
+            "rfcno": "SAPEWA63770935",
             "Customerid": "102133",
             "CustomerName": "Abu Dhabi National Oil Company (ADNOC) [SAP-HEC]",
             "TicketStage": "DONE",
@@ -217,7 +216,7 @@
             "subject": "0001112961-HD4~HANADB_Critical (Yellow)_EWA",
             "EWA Colour": "YELLOW",
             "url": "https://myshift.ctrls.in/itil/ewasap/getewadetails/NjM3NzA5MzU="
-                  }             
+        }
     ],
     "OperationalErrors": [
         {
