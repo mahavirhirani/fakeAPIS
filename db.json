@@ -69,15 +69,15 @@
     "EWA": [
       {
         "count": 3,
-        "title": "Yellow"
+        "title": "EWA_YELLOW"
       },
       {
         "count": 2,
-        "title": "Green"
+        "title": "EWA_GREEN"
       },
       {
         "count": 2,
-        "title": "Red"
+        "title": "EWA_RED"
       }
     ],
     "CustomerStatus": [
