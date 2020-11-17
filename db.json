@@ -121,102 +121,49 @@
             }
         ]
     },
-    "EWA_GREEN": [
+    
+    "OperationalErrors": [
         {
-            "rfcno": "SAPEWA56194956",
-            "Customerid": "102133",
-            "CustomerName": "Abu Dhabi National Oil Company (ADNOC) [SAP-HEC]",
-            "TicketStage": "DONE",
-            "TicketOpenedDate": "2020-03-13 17:05:19",
-            "TicketLastUpdatedDate": "2020-03-13 17:05:19",
-            "TLOName": "Adel  Abdelhaoui",
-            "Region": "MEA",
-            "subject": "0001112961-PO3~JAVA_No Rating (Undefined)_EWA",
-            "EWA Colour": "GREEN",
-            "url": "https://myshift.ctrls.in/itil/ewasap/getewadetails/NTYxOTQ5NTY="
+            "Month": "June",
+            "Furuka": "1",
+            "Yamaza": "0",
+            "Hanw": "0",
+            "Sysme": 1
         },
         {
-            "rfcno": "SAPEWA56150237",
-            "Customerid": "102133",
-            "CustomerName": "Abu Dhabi National Oil Company (ADNOC) [SAP-HEC]",
-            "TicketStage": "DONE",
-            "TicketOpenedDate": "2020-03-12 17:36:49",
-            "TicketLastUpdatedDate": "2020-03-12 17:36:49",
-            "TLOName": "Adel  Abdelhaoui",
-            "Region": "MEA",
-            "subject": "0001112961-PC6~ABAP_No Rating (Undefined)_EWA",
-            "EWA Colour": "GREEN",
-            "url": "https://myshift.ctrls.in/itil/ewasap/getewadetails/NTYxNTAyMzc="
-        }
-    ],
-    "EWA_RED": [
-        {
-            "rfcno": "SAPEWA56195709",
-            "Customerid": "102133",
-            "CustomerName": "Abu Dhabi National Oil Company (ADNOC) [SAP-HEC]",
-            "TicketStage": "DONE",
-            "TicketOpenedDate": "2020-03-13 17:13:08",
-            "TicketLastUpdatedDate": "2020-03-13 17:13:08",
-            "TLOName": "Adel  Abdelhaoui",
-            "Region": "MEA",
-            "subject": "0001112961-GF3~ABAP_Very Critical (Red)_EWA",
-            "EWA Colour": "RED",
-            "url": "https://myshift.ctrls.in/itil/ewasap/getewadetails/NTYxOTU3MDk="
+            "Month": "April",
+            "Furuka": "1",
+            "Yamaza": "0",
+            "Hanw": "0",
+            "Sysme": 1
         },
         {
-            "rfcno": "SAPEWA56196318",
-            "Customerid": "102133",
-            "CustomerName": "Abu Dhabi National Oil Company (ADNOC) [SAP-HEC]",
-            "TicketStage": "DONE",
-            "TicketOpenedDate": "2020-03-13 17:22:45",
-            "TicketLastUpdatedDate": "2020-03-13 17:22:45",
-            "TLOName": "Adel  Abdelhaoui",
-            "Region": "MEA",
-            "subject": "0001112961-GH3~HANADB_Very Critical (Red)_EWA",
-            "EWA Colour": "RED",
-            "url": "https://myshift.ctrls.in/itil/ewasap/getewadetails/NTYxOTYzMTg="
-        }
-    ],
-    "EWA_YELLOW": [
-        {
-            "rfcno": "SAPEWA63397728",
-            "Customerid": "102133",
-            "CustomerName": "Abu Dhabi National Oil Company (ADNOC) [SAP-HEC]",
-            "TicketStage": "DONE",
-            "TicketOpenedDate": "2020-07-16 17:29:49",
-            "TicketLastUpdatedDate": "2020-07-16 17:29:49",
-            "TLOName": "Adel  Abdelhaoui",
-            "Region": "MEA",
-            "subject": "0001112961-GH4~HANADB_Critical (Yellow)_EWA",
-            "EWA Colour": "YELLOW",
-            "url": "https://myshift.ctrls.in/itil/ewasap/getewadetails/NjMzOTc3Mjg="
+            "Month": "March",
+            "Furuka": "1",
+            "Yamaza": "0",
+            "Hanw": "0",
+            "Sysme": 1
         },
         {
-            "rfcno": "SAPEWA63770812",
-            "Customerid": "102133",
-            "CustomerName": "Abu Dhabi National Oil Company (ADNOC) [SAP-HEC]",
-            "TicketStage": "DONE",
-            "TicketOpenedDate": "2020-07-23 17:14:35",
-            "TicketLastUpdatedDate": "2020-07-23 17:14:35",
-            "TLOName": "Adel  Abdelhaoui",
-            "Region": "MEA",
-            "subject": "0001112961-HD7~HANADB_Critical (Yellow)_EWA",
-            "EWA Colour": "YELLOW",
-            "url": "https://myshift.ctrls.in/itil/ewasap/getewadetails/NjM3NzA4MTI="
+            "Month": "Feb",
+            "Furuka": "1",
+            "Yamaza": "0",
+            "Hanw": "0",
+            "Sysme": 1
         },
         {
-            "rfcno": "SAPEWA63770935",
-            "Customerid": "102133",
-            "CustomerName": "Abu Dhabi National Oil Company (ADNOC) [SAP-HEC]",
-            "TicketStage": "DONE",
-            "TicketOpenedDate": "2020-07-23 17:18:58",
-            "TicketLastUpdatedDate": "2020-07-23 17:18:58",
-            "TLOName": "Adel  Abdelhaoui",
-            "Region": "MEA",
-            "subject": "0001112961-HD4~HANADB_Critical (Yellow)_EWA",
-            "EWA Colour": "YELLOW",
-            "url": "https://myshift.ctrls.in/itil/ewasap/getewadetails/NjM3NzA5MzU="
+            "Month": "Jan",
+            "Furuka": "1",
+            "Yamaza": "0",
+            "Hanw": "0",
+            "Sysme": 1
+        },
+        {
+            "Month": "May",
+            "Furuka": "1",
+            "Yamaza": "0",
+            "Hanw": "0",
+            "Sysme": 1
         }
     ]
-    
 }
