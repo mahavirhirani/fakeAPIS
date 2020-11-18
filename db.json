@@ -24,11 +24,11 @@
   "projectDetails": [
     {
       "count": 30,
-      "title": "Red"
+      "title": "Pending"
     },
     {
       "count": 45,
-      "title": "Green"
+      "title": "Completed"
     }
   ],
   "RCAStatus": [
