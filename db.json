@@ -58,11 +58,11 @@
     ],
     "Availability": [
       {
-        "count": 2%,
+        "count": 2,
         "title": "Unavailabe"
       },
       {
-        "count": 98%,
+        "count": 98,
         "title": "Available"
       }
       
