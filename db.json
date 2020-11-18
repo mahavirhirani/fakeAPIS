@@ -48,12 +48,12 @@
   "Systemstatus": {
     "Monitoring": [
       {
-        "count": 6,
+        "count": 3,
         "title": "Open"
       },
       {
-        "count": 8,
-        "title": "Close"
+        "count": 4,
+        "title": "Confirm"
       }
     ],
     "Availability": [
