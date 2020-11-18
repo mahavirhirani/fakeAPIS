@@ -58,12 +58,12 @@
     ],
     "Availability": [
       {
-        "count": 6,
-        "title": "Open"
+        "count": 98,
+        "title": "Available"
       },
       {
-        "count": 8,
-        "title": "Close"
+        "count": 2,
+        "title": "Unavailabe"
       }
     ],
     "EWA": [
