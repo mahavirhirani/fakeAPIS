@@ -117,12 +117,8 @@
     ],
     "DRDril": [
       {
-        "count": 8,
+        "count": "Next DR Drill Date (25-11-2020)",
         "title": "Open"
-      },
-      {
-        "count": 0,
-        "title": "Close"
       }
     ]
   },
