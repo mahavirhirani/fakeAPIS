@@ -166,23 +166,5 @@
       "Sysme": 1
       
     }
-  ],
-  "EWA": [
-      {
-        "count": 2,
-        "title": "Red"
-      },
-      {
-        "count": 2,
-        "title": "Green"
-      },
-      {
-        "count": 3,
-        "title": "Blue"
-      },
-      {
-        "count": 2,
-        "title": "Grey"
-      }
-    ]
+  ]
 }
