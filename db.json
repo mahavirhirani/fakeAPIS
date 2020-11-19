@@ -166,16 +166,5 @@
       "Sysme": 1
       
     }
-  ],
-  "Availability": [
-      {
-        "count": 2,
-        "title": "Unavailabe"
-      },
-      {
-        "count": 98,
-        "title": "Available"
-      }
-      
-    ]
+  ]
 }
