@@ -1,134 +1,120 @@
 {
-  "tickets": {
-    "myshift": [
-      {"title": "Open",
-            "count": "7",
-            "ticketids": "56642445,59061777,59071889,59071899,59071906,59078347,59088094"
-      },{
-          "title": "Closed",
-            "count": "10",
-            "ticketids": "55601947,55604498,55613004,55625057,55626562,55639506,55640699,55642485,55642611,55644899"
-      }
-    ],
-    "resolve": [
-      {
-        "count": 10,
-        "title": "Open"
-      },
-      {
-        "count": 6,
-        "title": "Closed"
-      }
-    ]
-  },
-  "projectDetails": [
-    {
-      "count": 30,
-      "title": "Pending"
-    },
-    {
-      "count": 70,
-      "title": "Completed"
-    }
-  ],
-  "RCAStatus": [
-    {
-      "count": 3,
-      "title": "initial"
-    },
-    {
-      "count": 5,
-      "title": "final"
-    },
-    {
-      "count": 10,
-      "title": "in-progress"
-    }
-  ],
-  "Systemstatus": {
-    "Monitoring": [
-      {
-        "count": 3,
-        "title": "Open"
-      },
-      {
-        "count": 4,
-        "title": "Confirm"
-      }
-    ],
-    "Availability": [
-      {
-        "count": 2,
-        "title": "Unavailabe"
-      },
-      {
-        "count": 98,
-        "title": "Available"
-      }
-      
-    ],
-    "EWA": [
-      {
-        "count": 2,
-        "title": "Red"
-      },
-      {
-        "count": 2,
-        "title": "Green"
-      },
-      {
-        "count": 3,
-        "title": "Yellow"
-      },
-      {
-        "count": 2,
-        "title": "Grey"
-      }
-    ],
-    "CustomerStatus": [
-      {
-        "count": 6,
-        "title": "Open"
-      },
-      {
-        "count": 0,
-        "title": "Close"
-      }
-    ],
-    "Backup": [
-      {
-        "count": 6,
-        "title": "Open"
-      },
-      {
-        "count": 8,
-        "title": "Close"
-      }
-    ],
-    "Outages": [
-      {
-        "count": 8,
-        "title": "Open"
-      },
-      {
-        "count": 1,
-        "title": "Close"
-      }
-    ],
-    "DRDril": [
-      {
-        "count": "Next DR Drill Date (25-11-2020)",
-        "title": "Open"
-      }
-    ]
-  },
-  "OperationalErrors": [
-    {
-        "id":1,
-        "CustomerName":"ADNO",
-        "october":2, 
-        "november":1, 
-        "december":3
-    }
-  ]
+	"tickets": {
+		"myshift": [{
+			"title": "Open",
+			"count": "7",
+			"ticketids": "56642445,59061777,59071889,59071899,59071906,59078347,59088094"
+		}, {
+			"title": "Closed",
+			"count": "10",
+			"ticketids": "55601947,55604498,55613004,55625057,55626562,55639506,55640699,55642485,55642611,55644899"
+		}],
+		"resolve": [{
+				"count": 10,
+				"title": "Open"
+			},
+			{
+				"count": 6,
+				"title": "Closed"
+			}
+		]
+	},
+	"projectDetails": [{
+			"count": 30,
+			"title": "Pending"
+		},
+		{
+			"count": 70,
+			"title": "Completed"
+		}
+	],
+	"RCAStatus": [{
+			"count": 3,
+			"title": "initial"
+		},
+		{
+			"count": 5,
+			"title": "final"
+		},
+		{
+			"count": 10,
+			"title": "in-progress"
+		}
+	],
+	"Systemstatus": {
+		"Monitoring": [{
+				"count": 3,
+				"title": "Open"
+			},
+			{
+				"count": 4,
+				"title": "Confirm"
+			}
+		],
+		"Availability": [{
+				"count": 2,
+				"title": "Unavailabe"
+			},
+			{
+				"count": 98,
+				"title": "Available"
+			}
+
+		],
+		"EWA": [{
+				"count": 2,
+				"title": "Red"
+			},
+			{
+				"count": 2,
+				"title": "Green"
+			},
+			{
+				"count": 3,
+				"title": "Yellow"
+			},
+			{
+				"count": 2,
+				"title": "Grey"
+			}
+		],
+		"CustomerStatus": [{
+				"count": 6,
+				"title": "Open"
+			},
+			{
+				"count": 0,
+				"title": "Close"
+			}
+		],
+		"Backup": [{
+				"count": 6,
+				"title": "Open"
+			},
+			{
+				"count": 8,
+				"title": "Close"
+			}
+		],
+		"Outages": [{
+				"count": 8,
+				"title": "Open"
+			},
+			{
+				"count": 1,
+				"title": "Close"
+			}
+		],
+		"DRDril": [{
+			"count": "Next DR Drill Date (25-11-2020)",
+			"title": "Open"
+		}]
+	},
+	"OperationalErrors": [{
+		"id": 1,
+		"CustomerName": "ADNO",
+		"october": 2,
+		"november": 1,
+		"december": 3
+	}]
 }
