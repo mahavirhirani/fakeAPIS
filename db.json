@@ -124,47 +124,11 @@
   },
   "OperationalErrors": [
     {
-      "Month": "June",
-      "Furuka": "1",
-      "Yamaza": "0",
-      "Hanw": "0",
-      "Sysme": 1
+        "id":1,
+        "CustomerName":"ADNO",
+        "october":2, 
+        "november":1, 
+        "december":3
     },
-    {
-      "Month": "April",
-      "Furuka": "1",
-      "Yamaza": "0",
-      "Hanw": "0",
-      "Sysme": 1
-    },
-    {
-      "Month": "March",
-      "Furuka": "1",
-      "Yamaza": "0",
-      "Hanw": "0",
-      "Sysme": 1
-    },
-    {
-      "Month": "Feb",
-      "Furuka": "1",
-      "Yamaza": "0",
-      "Hanw": "0",
-      "Sysme": 1
-    },
-    {
-      "Month": "Jan",
-      "Furuka": "1",
-      "Yamaza": "0",
-      "Hanw": "0",
-      "Sysme": 1
-    },
-    {
-      "Month": "May",
-      "Furuka": "1",
-      "Yamaza": "0",
-      "Hanw": "0",
-      "Sysme": 1
-      
-    }
   ]
 }
