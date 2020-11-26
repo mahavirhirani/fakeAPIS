@@ -20,11 +20,11 @@
 		]
 	},
 	"projectDetails": [{
-			"count": 30,
+			"count": 10,
 			"title": "Pending"
 		},
 		{
-			"count": 70,
+			"count": 90,
 			"title": "Completed"
 		}
 	],
