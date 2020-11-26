@@ -88,12 +88,12 @@
 			}
 		],
 		"Backup": [{
-				"count": 6,
-				"title": "Open"
+				"count": 0,
+				"title": "Failure"
 			},
 			{
-				"count": 8,
-				"title": "Close"
+				"count": 10,
+				"title": "Success"
 			}
 		],
 		"Outages": [{
