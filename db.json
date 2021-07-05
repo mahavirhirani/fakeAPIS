@@ -1,24 +1,28 @@
 {
   "List": [
     {
+      "type": "Critical",
       "Critical": 5,
       "High": 12,
       "Medium": 7,
       "Low": 3
     },
     {
+      "type": "High",
       "Critical": 8,
       "High": 6,
       "Medium": 2,
       "Low": 13
     },
     {
+      "type": "Medium",
       "Critical": 18,
       "High": 9,
       "Medium": 5,
       "Low": 18
     },
     {
+      "type": "Low",
       "Critical": 10,
       "High": 4,
       "Medium": 9,
